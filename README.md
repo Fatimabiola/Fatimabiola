@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fatimabiola
 - 👀 I’m interested in website development and UI/UX designs
-- 🌱 I’m currently learning HTML,CSS and JavaScript
+- 🌱 I’m currently learning React.JS
 - 💞️ I’m looking to collaborate on web design project 
 - 📫 You can reach me via phatimatwahab@gmail.com
 
