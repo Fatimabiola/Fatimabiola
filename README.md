@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FatimaWahab
 - 👀 I’m interested in website development and UI/UX designs
 - 🌱 I’m currently learning React.JS
-- 💞️ I’m looking to collaborate on web design project 
+- 💞️ I’m looking to collaborate on web development projects 
 - 📫 You can reach me via fatimatyewandewahab@gmail.com
 
 <!---
